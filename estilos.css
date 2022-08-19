@@ -1,0 +1,33 @@
+*{
+    padding: 0px 1px 1px 1px;
+    margin: 0;
+}
+
+body {
+    background: #F5E8C7;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 19px;
+  }
+
+table{
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: #DEBA9D;
+}
+
+.creador_h{
+    color: blue;
+}
+
+.nav_p{
+    transition: 0.5s;
+}
+
+nav a:hover{
+    color: #DE834D;
+    font-size: 25px;
+    
+}
